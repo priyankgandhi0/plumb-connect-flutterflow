@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDMi89EGMg6iXM_qbP-6P_tizoUJGqWrrM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>143675492536</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.plumbconnect</string>
+	<key>PROJECT_ID</key>
+	<string>plumbconnect-31f5a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>plumbconnect-31f5a.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:143675492536:ios:71f4483eb227b1aa924c4d</string>
+</dict>
+</plist>

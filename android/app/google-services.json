@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143675492536",
+    "project_id": "plumbconnect-31f5a",
+    "storage_bucket": "plumbconnect-31f5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143675492536:android:3fbd662fead0c049924c4d",
+        "android_client_info": {
+          "package_name": "com.mycompany.plumbconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWQjLWlqxcxPAwyoxwak3wPb076mluiFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
